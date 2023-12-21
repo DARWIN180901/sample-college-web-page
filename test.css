@@ -1,0 +1,62 @@
+
+@font-face{
+    src:url(image/fonts/LilitaOne-Regular.ttf);
+    font-family:LilitaOne;
+}
+@font-face{
+    src:url(image/fonts/PermanentMarker-Regular.ttf);
+    font-family:PermanentMarker;
+}
+
+.bg-img{
+    background-image: url(image/charles-deloye-2RouMSg9Rnw-unsplash.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 90000px !important;
+    overflow: hidden;
+}
+
+h2{
+    font-family:PermanentMarker,verdana,arial;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(110, 240, 240);
+}
+body{   
+}
+.navbar ul{
+    list-style-type:none;
+    background-color: rgb(168, 168, 168);
+    padding: 0%;
+    margin: 0%;
+    overflow:hidden ;
+    display: inline;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    display: block;
+    text-align: center;
+
+}
+.navbar a:hover{
+    background-color: rgb(61, 61, 61);
+    font-size: 1.1em;
+
+}
+.navbar li{
+    float: left;
+}
+.image1{
+    float: left;
+   
+}
+.p1{
+    margin-left: 10px;
+    font-family:LilitaOne;
+    font-size:x-large;
+    color: rgb(20, 20, 20);
+
+}

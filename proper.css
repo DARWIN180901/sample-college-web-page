@@ -1,0 +1,66 @@
+body{
+    margin: 0%;
+}
+
+header{
+    display:flex;
+}
+.navbar{
+    background-color: rgb(207, 207, 207);
+    border-radius: 20px;
+
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    padding: 8px;
+    list-style: none;
+    margin-left: 50px;
+
+}
+li:hover{
+    background-color: rgb(175, 175, 175);
+}
+.right{
+    display: flex;
+}
+main{
+    background-image: url(image/charles-deloye-2RouMSg9Rnw-unsplash.jpg);
+    
+    height: 1000px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+   
+    
+}
+.clg{
+    display: flex;
+}
+.para{
+    margin-left: 10px;
+    font-weight: bolder;
+}
+.clg_1{
+    margin-top: 50px;
+}
+.reg{
+    margin-left: 450px;
+    margin-top: 100px;
+    
+}
+
+#regi{
+    margin-top: 20px;
+}
+
+
+    
+    
+
+
+
